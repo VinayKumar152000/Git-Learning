@@ -7,3 +7,6 @@ clone specific brnach from a repo to a specific folder
 ->>> git stash -> it is used to save current branch changes temporarily so the we can switch between multiple branches without
 commiting the code.
 git statsh "statshing message"
+
+
+git init-> intialize a git repo locally.
